@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/ProjectManagementApp/static/css/main.70727bed.chunk.css",
-    "main.js": "/ProjectManagementApp/static/js/main.0a5fdacd.chunk.js",
-    "main.js.map": "/ProjectManagementApp/static/js/main.0a5fdacd.chunk.js.map",
+    "main.js": "/ProjectManagementApp/static/js/main.fb05569c.chunk.js",
+    "main.js.map": "/ProjectManagementApp/static/js/main.fb05569c.chunk.js.map",
     "runtime-main.js": "/ProjectManagementApp/static/js/runtime-main.9c689b4b.js",
     "runtime-main.js.map": "/ProjectManagementApp/static/js/runtime-main.9c689b4b.js.map",
-    "static/js/2.34d4aac3.chunk.js": "/ProjectManagementApp/static/js/2.34d4aac3.chunk.js",
-    "static/js/2.34d4aac3.chunk.js.map": "/ProjectManagementApp/static/js/2.34d4aac3.chunk.js.map",
+    "static/js/2.b777aba0.chunk.js": "/ProjectManagementApp/static/js/2.b777aba0.chunk.js",
+    "static/js/2.b777aba0.chunk.js.map": "/ProjectManagementApp/static/js/2.b777aba0.chunk.js.map",
     "static/js/3.ccce38eb.chunk.js": "/ProjectManagementApp/static/js/3.ccce38eb.chunk.js",
     "static/js/3.ccce38eb.chunk.js.map": "/ProjectManagementApp/static/js/3.ccce38eb.chunk.js.map",
     "index.html": "/ProjectManagementApp/index.html",
-    "precache-manifest.98fb72a64bbe79711120f3725eb76e7c.js": "/ProjectManagementApp/precache-manifest.98fb72a64bbe79711120f3725eb76e7c.js",
+    "precache-manifest.1ef3a366ceed4bf8e5da2a2555c2f9be.js": "/ProjectManagementApp/precache-manifest.1ef3a366ceed4bf8e5da2a2555c2f9be.js",
     "service-worker.js": "/ProjectManagementApp/service-worker.js",
     "static/css/main.70727bed.chunk.css.map": "/ProjectManagementApp/static/css/main.70727bed.chunk.css.map",
-    "static/js/2.34d4aac3.chunk.js.LICENSE.txt": "/ProjectManagementApp/static/js/2.34d4aac3.chunk.js.LICENSE.txt"
+    "static/js/2.b777aba0.chunk.js.LICENSE.txt": "/ProjectManagementApp/static/js/2.b777aba0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.9c689b4b.js",
-    "static/js/2.34d4aac3.chunk.js",
+    "static/js/2.b777aba0.chunk.js",
     "static/css/main.70727bed.chunk.css",
-    "static/js/main.0a5fdacd.chunk.js"
+    "static/js/main.fb05569c.chunk.js"
   ]
 }
