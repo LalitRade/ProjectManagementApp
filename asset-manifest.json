@@ -1,24 +1,15 @@
 {
   "files": {
-    "main.css": "/ProjectManagementApp/static/css/main.70727bed.chunk.css",
-    "main.js": "/ProjectManagementApp/static/js/main.fb05569c.chunk.js",
-    "main.js.map": "/ProjectManagementApp/static/js/main.fb05569c.chunk.js.map",
-    "runtime-main.js": "/ProjectManagementApp/static/js/runtime-main.9c689b4b.js",
-    "runtime-main.js.map": "/ProjectManagementApp/static/js/runtime-main.9c689b4b.js.map",
-    "static/js/2.b777aba0.chunk.js": "/ProjectManagementApp/static/js/2.b777aba0.chunk.js",
-    "static/js/2.b777aba0.chunk.js.map": "/ProjectManagementApp/static/js/2.b777aba0.chunk.js.map",
-    "static/js/3.ccce38eb.chunk.js": "/ProjectManagementApp/static/js/3.ccce38eb.chunk.js",
-    "static/js/3.ccce38eb.chunk.js.map": "/ProjectManagementApp/static/js/3.ccce38eb.chunk.js.map",
+    "main.css": "/ProjectManagementApp/static/css/main.1c1912fd.css",
+    "main.js": "/ProjectManagementApp/static/js/main.5ff0e842.js",
+    "static/js/453.b930d918.chunk.js": "/ProjectManagementApp/static/js/453.b930d918.chunk.js",
     "index.html": "/ProjectManagementApp/index.html",
-    "precache-manifest.1ef3a366ceed4bf8e5da2a2555c2f9be.js": "/ProjectManagementApp/precache-manifest.1ef3a366ceed4bf8e5da2a2555c2f9be.js",
-    "service-worker.js": "/ProjectManagementApp/service-worker.js",
-    "static/css/main.70727bed.chunk.css.map": "/ProjectManagementApp/static/css/main.70727bed.chunk.css.map",
-    "static/js/2.b777aba0.chunk.js.LICENSE.txt": "/ProjectManagementApp/static/js/2.b777aba0.chunk.js.LICENSE.txt"
+    "main.1c1912fd.css.map": "/ProjectManagementApp/static/css/main.1c1912fd.css.map",
+    "main.5ff0e842.js.map": "/ProjectManagementApp/static/js/main.5ff0e842.js.map",
+    "453.b930d918.chunk.js.map": "/ProjectManagementApp/static/js/453.b930d918.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.9c689b4b.js",
-    "static/js/2.b777aba0.chunk.js",
-    "static/css/main.70727bed.chunk.css",
-    "static/js/main.fb05569c.chunk.js"
+    "static/css/main.1c1912fd.css",
+    "static/js/main.5ff0e842.js"
   ]
 }
