@@ -1,4 +1,6 @@
 // Card.js
+import React from 'react';
+
 export const Card = ({ children, className }) => (
     <div className={`p-4 bg-white rounded-lg shadow ${className}`}>{children}</div>
   );

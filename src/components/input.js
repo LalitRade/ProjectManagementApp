@@ -1,4 +1,6 @@
 // Input.js
+import React from 'react';
+
 export const Input = ({ value, onChange, placeholder, className, type = 'text' }) => (
     <input
       type={type}
