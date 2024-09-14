@@ -16,7 +16,6 @@ const Login = () => {
   };
 
   const handleLogin = () => {
-    // Example credentials, replace with actual authentication logic
     const validCredentials = {
       admin: { username: 'admin', password: 'admin123' },
       viewer: { username: 'viewer', password: 'viewer123' },

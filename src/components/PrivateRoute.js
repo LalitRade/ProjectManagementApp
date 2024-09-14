@@ -2,16 +2,14 @@ import React from 'react';
 import { Navigate } from 'react-router-dom';
 import { useAuth } from '../context/AuthContext';
 
-const PrivateRoute = ({ element: Component, requiredRole, ...rest }) => {
-  const { currentUser } = useAuth();
+const PrivateRoute = ({ element: Element, requiredRole }) => {
+  const { user } = useAuth();
 
-  // Check if the user is authenticated and authorized
-  if (!currentUser || currentUser.role !== requiredRole) {
+  if (!user || !requiredRole.includes(user.role)) {
     return <Navigate to="/login" />;
   }
 
-  // Render the protected component
-  return <Component {...rest} />;
+  return <Element />;
 };
 
 export default PrivateRoute;

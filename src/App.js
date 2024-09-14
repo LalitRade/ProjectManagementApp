@@ -14,19 +14,19 @@ function App() {
         <Routes>
           {/* Public Route */}
           <Route path="/login" element={<Login />} />
-          
+
           {/* Private Routes with role-based protection */}
           <Route 
             path="/admin" 
-            element={<PrivateRoute element={AdminDashboard} requiredRole="admin" />} 
+            element={<PrivateRoute element={AdminDashboard} requiredRole={['admin']} />} 
           />
           <Route 
             path="/viewer" 
-            element={<PrivateRoute element={ViewerDashboard} requiredRole="viewer" />} 
+            element={<PrivateRoute element={ViewerDashboard} requiredRole={['viewer']} />} 
           />
           <Route 
             path="/" 
-            element={<PrivateRoute element={ProjectManagementApp} requiredRole="admin" />} 
+            element={<PrivateRoute element={ProjectManagementApp} requiredRole={['admin', 'viewer']} />} 
           />
 
           {/* Catch-all Route */}
