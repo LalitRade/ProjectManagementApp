@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ProjectManagementApp/static/css/main.1c1912fd.css",
-    "main.js": "/ProjectManagementApp/static/js/main.15d62c4f.js",
+    "main.css": "/ProjectManagementApp/static/css/main.b9d23681.css",
+    "main.js": "/ProjectManagementApp/static/js/main.5a796781.js",
     "static/js/453.b930d918.chunk.js": "/ProjectManagementApp/static/js/453.b930d918.chunk.js",
     "index.html": "/ProjectManagementApp/index.html",
-    "main.1c1912fd.css.map": "/ProjectManagementApp/static/css/main.1c1912fd.css.map",
-    "main.15d62c4f.js.map": "/ProjectManagementApp/static/js/main.15d62c4f.js.map",
+    "main.b9d23681.css.map": "/ProjectManagementApp/static/css/main.b9d23681.css.map",
+    "main.5a796781.js.map": "/ProjectManagementApp/static/js/main.5a796781.js.map",
     "453.b930d918.chunk.js.map": "/ProjectManagementApp/static/js/453.b930d918.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1c1912fd.css",
-    "static/js/main.15d62c4f.js"
+    "static/css/main.b9d23681.css",
+    "static/js/main.5a796781.js"
   ]
 }
